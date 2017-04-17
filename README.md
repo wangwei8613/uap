@@ -1,2 +1,0 @@
-# uap
-uap governance
